@@ -1,0 +1,15 @@
+1.pwd:to check the current working directory
+
+2.cd 'path_name':To change the current working directory
+
+3.git init:use  to initialize the repository. It is used to create a new empty repository or directory consisting of files' with the hidden directory. '.git' is created at the top level of your project.
+
+4.git add . :use in your bash to add all the files to the given folder.
+
+5.git status:use in your bash to view all the files which are going to be staged to the first commit.
+
+6.git commit -m 'your message':which adds the change to the local repository.
+
+7.git remote add origin 'your_url_name':ur git https:url.
+
+8.git push -u origin master:is used for pushing local content to GitHub.
