@@ -12,3 +12,6 @@ HTTP
      - PATCH i.e partial update in resouce
      - DELETE i.e to delete existing resource
      - OPTION i.e to know privileges on resource
+
+1.web server(for static resources) vs application server vs web container(inside web server for dynamic page configuration)
+2.web server(apache https server)but tomcat(web container)
