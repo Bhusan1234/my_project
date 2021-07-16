@@ -5,7 +5,9 @@ public static void main(String args[]){
    BufferedWriter buffer=new BufferedWriter(writer);
    buffer.write("welcome to jaav");
    buffer.close();
-   System.out.println("ducess");   
+   System.out.println("ducess");  
+   System.out.println("ducess");  
+ 
 }
 
 }
