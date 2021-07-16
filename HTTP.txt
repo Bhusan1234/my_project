@@ -15,3 +15,6 @@ HTTP
 
 1.web server(for static resources) vs application server vs web container(inside web server for dynamic page configuration)
 2.web server(apache https server)but tomcat(web container)
+3.servelet vs genericS vs HttpServelet
+@webServelet
+Printwriter out=response.getWriter
